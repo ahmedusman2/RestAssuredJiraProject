@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-10T11:55:47 GST" name="Default suite" finished-at="2020-11-10T11:55:49 GST" duration-ms="2287">
+    <groups>
+    </groups>
+    <test started-at="2020-11-10T11:55:47 GST" name="Default test" finished-at="2020-11-10T11:55:49 GST" duration-ms="2287">
+      <class name="TestRestProject.TestRestProject.jiraTest">
+        <test-method signature="addComment()[pri:0, instance:TestRestProject.TestRestProject.jiraTest@47542153]" started-at="2020-11-10T11:55:47 GST" name="addComment" finished-at="2020-11-10T11:55:49 GST" duration-ms="2258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addComment -->
+      </class> <!-- TestRestProject.TestRestProject.jiraTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
